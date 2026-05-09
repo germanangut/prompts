@@ -1,0 +1,2 @@
+# prompts
+Vibe coding courses
